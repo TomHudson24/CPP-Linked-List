@@ -1,0 +1,5 @@
+﻿  LinkedList.cpp
+C:\Users\Tom\source\repos\LinkedList\LinkedList\LinkedList.cpp(49,18): warning C4553: '==': result of expression not used; did you intend '='?
+  main.cpp
+  Generating Code...
+  LinkedList.vcxproj -> C:\Users\Tom\source\repos\LinkedList\Debug\LinkedList.exe
